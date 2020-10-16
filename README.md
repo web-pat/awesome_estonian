@@ -35,8 +35,8 @@ A great source of information to learn and practice Estonian as a foreign langua
 ## Radios
 
 ## Online courses
-* [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
-* [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
+* [Loecsen - learn Estonian online](https://www.loecsen.com/en/learn-estonian)
+* [Digital Dialects - Estonian language learning games](https://www.digitaldialects.com/Estonian.htm)
 
 ## Blogs
 
