@@ -49,6 +49,7 @@ A great source of information to learn and practice Estonian as a foreign langua
 ### SOCIAL NETWORKS
 
 ## Podcasts
+* [Kuku Raadio Podcast](http://podcast.kuku.postimees.ee/)
 
 ## Books
 
