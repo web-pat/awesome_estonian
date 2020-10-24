@@ -35,6 +35,8 @@ A great source of information to learn and practice Estonian as a foreign langua
 ## Radios
 
 ## Online courses
+* [Keeletee - Free E-course up to B1 level](https://www.keeletee.ee/index_en.html)
+* [Lingohut - Free Estonian lessons](https://www.lingohut.com/en/l115/learn-estonian)
 * [Loecsen - learn Estonian online](https://www.loecsen.com/en/learn-estonian)
 * [Digital Dialects - Estonian language learning games](https://www.digitaldialects.com/Estonian.htm)
 
@@ -43,7 +45,8 @@ A great source of information to learn and practice Estonian as a foreign langua
 ## Useful apps and services
 
 ### FLASHCARDS
-
+* [Quizlet - English-Estonian](https://quizlet.com/subject/estonian/)
+* [Quizlet - German-Estonian](https://quizlet.com/subject/estnisch/)
 ### MUSIC
 
 ### SOCIAL NETWORKS
@@ -54,5 +57,6 @@ A great source of information to learn and practice Estonian as a foreign langua
 ## Books
 
 ## Dictionaries
+* [English-Estonian dictionary - by the Institute of Baltic Studies](http://dict.ibs.ee/)
 
 ## Government Institutes
