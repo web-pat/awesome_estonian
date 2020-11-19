@@ -29,6 +29,7 @@ A great source of information to learn and practice Estonian as a foreign langua
 ## TV channels
 
 ## YouTube channels
+* [Learn Estonian](https://www.youtube.com/channel/UCYhJuSf32yh7KWusTKscpnQ)
 
 ## Magazines
 
