@@ -34,6 +34,9 @@ A great source of information to learn and practice Estonian as a foreign langua
 ## Magazines
 
 ## Radios
+* [Kuku Raadio](http://kuku.postimees.ee/)
+* [Nömme Raadio](https://www.nommeraadio.ee/)
+* [Estonian Party Station](https://raadiod.com/estonian-party-station/)
 
 ## Online courses
 * [Keeletee - Free E-course up to B1 level](https://www.keeletee.ee/index_en.html)
