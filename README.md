@@ -27,6 +27,7 @@ A great source of information to learn and practice Estonian as a foreign langua
 * [Õhtuleht](https://www.ohtuleht.ee/)
 * [Postimees](https://www.postimees.ee/)
 ## TV channels
+* [ERR](https://www.err.ee/)
 
 ## YouTube channels
 * [Learn Estonian](https://www.youtube.com/channel/UCYhJuSf32yh7KWusTKscpnQ)
@@ -62,6 +63,9 @@ A great source of information to learn and practice Estonian as a foreign langua
 
 ## Books
 * [Saame tuttavaks! Estonian for Beginners](https://www.apollo.ee/saame-tuttavaks-estonian-for-beginners.html)
+* [Learn Estonian in a Week](https://amzn.to/3CB18S8)
+* [Colloquial Estonian](https://amzn.to/3CyZctC)
+* [Estonian Frequency Dictionary](https://amzn.to/2VKnQql)
 
 ## Dictionaries
 * [English-Estonian dictionary - by the Institute of Baltic Studies](http://dict.ibs.ee/)
