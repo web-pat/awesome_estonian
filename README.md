@@ -3,9 +3,9 @@ Do you want to learn Estonian? *Awesome*.
 
 A great source of information to learn and practice Estonian as a foreign language.
 
-> This repository is not meant to gather every link or service available, but keep small and high quality resouces. In short, those are my favorite places to learn and practice Estonian. :wink:
+This repository is not meant to gather every link or service available, but keep small and high quality resouces. In short, those are my favorite places to learn and practice Estonian. :wink:
 
-> If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/willianpaixao/awesome-german/issues) or push your changes to this repository.
+If you have a suggestion or found a broken link, please do not hesitate to [open an issue](https://github.com/web-pat/awesome_estonian/issues) or push your changes to this repository.
 
 ## Table of contents
 * [Newspapers](#newspapers)
